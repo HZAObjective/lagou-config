@@ -1,2 +1,5 @@
 mysql:
   user: jietwu
+
+person:
+  name: yyxx
